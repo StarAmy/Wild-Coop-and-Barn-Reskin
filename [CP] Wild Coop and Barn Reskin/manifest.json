@@ -1,0 +1,11 @@
+{
+    "Name": "Wild Coop and Barn Reskin",
+    "Author": "StarAmy",
+    "Version": "1.0.0",
+    "Description": "A set of replacement maps for all six coops and barns, with extra accents and living visitors.",
+    "UniqueID": "StarAmy.CoopsBarns",
+    "MinimumApiVersion": "2.8",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

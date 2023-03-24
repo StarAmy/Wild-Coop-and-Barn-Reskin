@@ -1,0 +1,102 @@
+{
+    "Format": "1.25.0",
+	  
+    "Changes": [
+
+        {
+        "Action": "EditMap",
+            "Target": "Maps/Coop",
+            "FromFile": "assets/Coop.tbin",
+             "MapProperties": 
+                {
+                        "AmbientLight" : "110 110 110",
+                        "Light" : "8 1 4",
+                        "WindowLight" : "1 1 6 6 1 6 10 1 6",
+                        "DayTiles" : "Buildings 1 1 24 Buildings 6 1 24 Buildings 10 1 24",
+                        "NightTiles" : "Buildings 1 1 26 Buildings 6 1 26 Buildings 10 1 26",
+                        "Feed" : "3 2",
+                        "ProduceArea" : "2 4 8 4",
+                        "Warp" : "2 10 Farm 21 11",
+                    },
+        },
+		{
+            "Action": "EditMap",
+            "Target": "Maps/Coop2",
+            "FromFile": "assets/Coop2.tbin",
+            "MapProperties": 
+                {
+                        "AmbientLight" : "110 110 110",
+                        "Light" : "8 1 4",
+                        "WindowLight" : "1 1 6 6 1 6 10 1 6 14 1 6",
+                        "DayTiles" : "Buildings 1 1 24 Buildings 6 1 24 Buildings 10 1 24 Buildings 14 1 24",
+                        "NightTiles" : "Buildings 1 1 26 Buildings 6 1 26 Buildings 10 1 26 Buildings 14 1 26",
+                        "Feed" : "3 2",
+                        "ProduceArea" : "2 4 11 4",
+                        "Warp" : "2 10 Farm 21 11",
+                    },        
+        },
+        {
+            "Action": "EditMap",
+            "Target": "Maps/Coop3",
+            "FromFile": "assets/Coop3.tbin",
+            "MapProperties": 
+                {
+                        "AmbientLight" : "110 110 110",
+                        "Light" : "6 1 4 18 1 4",
+                        "WindowLight" : "1 1 6 4 1 6 7 1 6 10 1 6 14 1 6 17 1 6 20 1 6",
+                        "DayTiles" : "Buildings 1 1 24 Buildings 4 1 24 Buildings 7 1 24 Buildings 10 1 24 Buildings 14 1 24 Buildings 17 1 24 Buildings 20 1 24",
+                        "NightTiles" : "Buildings 1 1 26 Buildings 4 1 26 Buildings 7 1 26 Buildings 10 1 26 Buildings 14 1 26 Buildings 17 1 26 Buildings 20 1 26",
+                        "Feed" : "3 2",
+                        "ProduceArea" : "2 4 18 4",
+                        "Warp" : "2 10 Farm 21 11",
+                    },        
+
+        },
+		{
+            "Action": "EditMap",
+            "Target": "Maps/Barn",
+            "FromFile": "assets/Barn.tbin",
+            "MapProperties": 
+                {
+                        "AmbientLight" : "110 110 110",
+                        "Light" : "3 9 4 5 1 4 12 1 4",
+                        "WindowLight" : "3 1 6 9 1 6 14 1 6",
+                        "DayTiles" : "Buildings 3 1 24 Buildings 9 1 24 Buildings 14 1 24",
+                        "NightTiles" : "Buildings 3 1 26 Buildings 9 1 26 Buildings 14 1 26",
+                        "Feed" : "5 2",
+                        "ProduceArea" : "6 4 8 7",
+                        "Warp" : "11 15 Farm 14 11",
+                    },        },
+		{
+            "Action": "EditMap",
+            "Target": "Maps/Barn2",
+            "FromFile": "assets/Barn2.tbin",
+            "MapProperties": 
+                {
+                        "AmbientLight" : "110 110 110",
+                        "Light" : "3 9 4 4 1 4 16 1 4",
+                        "WindowLight" : "2 1 6 6 1 6 10 1 6 14 1 6 18 1 6",
+                        "DayTiles" : "Buildings 2 1 24 Buildings 6 1 24 Buildings 10 1 24 Buildings 14 1 24 Buildings 18 1 24",
+                        "NightTiles" : "Buildings 2 1 26 Buildings 6 1 26 Buildings 10 1 26 Buildings 14 1 26 Buildings 18 1 26",
+                        "Feed" : "5 2",
+                        "ProduceArea" : "6 4 12 7",
+                        "Warp" : "11 15 Farm 14 11",
+                    },        },
+		{
+            "Action": "EditMap",
+            "Target": "Maps/Barn3",
+            "FromFile": "assets/Barn3.tbin",
+            "MapProperties": 
+                {
+                        "AmbientLight" : "110 110 110",
+                        "Light" : "3 9 4 4 1 4 20 1 4",
+                        "WindowLight" : "3 1 6 6 1 6 9 1 6 12 1 6 15 1 6 18 1 6 21 1 6",
+                        "DayTiles" : "Buildings 3 1 24 Buildings 6 1 24 Buildings 9 1 24 Buildings 12 1 24 Buildings 15 1 24 Buildings 18 1 24 Buildings 21 1 24",
+                        "NightTiles" : "Buildings 3 1 26 Buildings 6 1 26 Buildings 9 1 26 Buildings 12 1 26 Buildings 15 1 26 Buildings 18 1 26 Buildings 21 1 26",
+                        "Feed" : "5 2",
+                        "ProduceArea" : "6 4 15 7",
+                        "Warp" : "11 15 Farm 14 11",
+                    },        },
+		
+    ]
+}
